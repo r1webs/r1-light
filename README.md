@@ -1,9 +1,9 @@
-r1-light
+sharedUI
 ========
 
-<p>r1-light is a light weight UI library developed using jQuery</p>
-<p>r1-light will make you comfortable to use UI components. Code written in a very easy way to easily understand and customize. I give you full control over the plugin that you can edit/upgrade and you can suggest me the best approch also.</p>
-<p>Now r1-light has almost 9 UI components</p>
+<p>sharedUI is a light weight UI library developed using jQuery</p>
+<p>sharedUI will make you comfortable to use UI components. Code written in a very easy way to easily understand and customize. I give you full control over the plugin that you can edit/upgrade and you can suggest me the best approch also.</p>
+<p>Now sharedUI has almost 9 UI components</p>
 <ol>
   <li>Multi level Drop down menu</li>
   <li>Custom Tool tip</li>
@@ -22,6 +22,6 @@ r1-light
 <p><strong>How to Use?</strong></p>
 <ol>
   <li>Add jQuery library</li>
-  <li>Download - r1-light.1.0.js and add to your page below jQuery library</li>
-  <li>Call function using $.r1Light <p style="color:#ccc;"><em>(For example: $.r1Light.yourfunction('jQueryselector','options');)</em></p></li>
+  <li>Download - sharedUI.1.0.js and add to your page below jQuery library</li>
+  <li>Call function using $.sharedUI <p style="color:#ccc;"><em>(For example: $.sharedUI.yourfunction('jQueryselector','options');)</em></p></li>
 </ol>
